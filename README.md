@@ -1,7 +1,7 @@
 # _Cubing Workflow_
 
 ## Solving a Pyraminx
-### **The data below includes obesrvation time to solve pyraminx**
+### _The data below includes obesrvation time to solve pyraminx_
 
 ## My times to solve pyraminx
 ### 1. 2:31:62
@@ -12,4 +12,10 @@
 
 ## _Calculating ao5_
 ### Not counting best and worst times
-### 1:34:46 + 1:14:43 + 1:07:78 / 3 = _1:18:89_
+### 1:34:46 + 1:14:43 + 1:07:78 / 3 = **_1:18:89_**
+
+## _Resources used to learn to solve_
+### 1. (https://www.youtube.com/watch?v=Qv6bWiLQZoI)
+### 2. (https://www.youtube.com/watch?v=2H0FUvaaUsI)
+
+
