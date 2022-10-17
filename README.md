@@ -28,7 +28,7 @@
 ###   c) If two edges need to be flipped I use the algorithm **R' L R L' U L' U' L**
 ###   d) The other case is the clockwise cycle where I use the algorithm **R U' R' U**
 
-##_Next Steps/Goals_
+## _Next Steps/Goals_
 ### In the future, I would like to be able to solve the pyraminx at an average of about 30-45s instead of have an average or 1:18:89, in order to get there I think I need to work a bit more with the cube and try looking at it in different ways to understand what I need to do to solve it in fewer steps.
 ###
 
