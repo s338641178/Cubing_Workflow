@@ -3,7 +3,7 @@
 ## Solving a Pyraminx
 ### _The data below includes obesrvation time to solve pyraminx_
 
-## My times to solve pyraminx
+## My times to solve pyraminx - October 17th
 ### 1. 2:31:62
 ### 2. 1:34:46
 ### 3. 46:12 (Best time)
