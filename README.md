@@ -6,7 +6,7 @@
 ## My times to solve pyraminx
 ### 1. 2:31:62
 ### 2. 1:34:46
-### 3. 46:12 (PB)
+### 3. 46:12 (Best time)
 ### 4. 1:14:43
 ### 5. 1:07:78
 
@@ -28,8 +28,10 @@
 ###   c) If two edges need to be flipped I use the algorithm **R' L R L' U L' U' L**
 ###   d) The other case is the clockwise cycle where I use the algorithm **R U' R' U**
 
+## _What I've Learned_
+### Working with the pyraminx this past week has given me a much better understanding of how algorithms work and has allowed me to work through somthing in which I can have physical results and really see my progress in front of me. I hope that I can use this understanding of algorithms and apply it to coding and use it when coding projects in the future.
+
 ## _Next Steps/Goals_
-### In the future, I would like to be able to solve the pyraminx at an average of about 45-55s instead of have an average or 1:18, in order to get there I think I need to work a bit more with the cube and try looking at it in different ways to understand what I need to do to solve it in fewer steps.
-###
+### In the future, I would like to be able to solve the pyraminx at an average of about 45-55s instead of have an average or 1:18, in order to get there I think I need to work a bit more with the cube and try looking at it in different ways to understand what I need to do to solve it in fewer steps. I would also like to work with a pyraminx duo as well and maybe work toward using a rubik's cube in the future and continue working with different types of cubes.
 
 
