@@ -10,16 +10,46 @@
 ### 4. 1:14:43
 ### 5. 1:07:78
 
+## _Calculating ao5_
+### Not counting best and worst times
+### 1:34:46 + 1:14:43 + 1:07:78 / 3 = **_1:18:89_**
+
 ## My times to solve pyraminx - October 19th
 ### 1. 43.13
 ### 2. 1:05.27
 ### 3. 25.70
 ### 4. 34.85
-### 5. 
+### 5. 53.72
+### 6. 1:11.93
+### 7. 1:58.11
+### 8. 38.17
+### 9. 42.70
+### 10. 1:00.47
+### 11. 2:09.64
+### 12. 1:09.49
 
-## _Calculating ao5_
+## _Calculating ao12_
 ### Not counting best and worst times
-### 1:34:46 + 1:14:43 + 1:07:78 / 3 = **_1:18:89_**
+### 43.13 + 1:05.27 +  34.85 + 53.72 + 1:11.93 +  1:58.11 +  38.17 + 42.70 + 1:00.47 + 1:09.49 / 10 = **_1:18:89_**
+
+## Calculating ao25
+### Not counting best and worst times
+### 1. 44.48
+### 2. 36.02
+### 3. 31.76
+### 4. 1:38.16
+### 5. 45.81
+### 6. 1:13.59
+### 7. 34.08
+### 8. 1:04.88
+### 9. 32.84
+### 10. 52.69
+### 11. 1:16.38
+### 12. 17.77
+### 13.
+### 14. 
+### 15. 
+### 16.
 
 ## _Resources used to learn to solve_
 ### 1. (https://www.youtube.com/watch?v=Qv6bWiLQZoI)
@@ -31,7 +61,7 @@
 ### 3. Next, with the solved side on the bottom, if the other sides dont have the bottom row solved, I use _R U R'_ to solve the bottom row of each side
 ### 4. After that, depending on the case I use another algorithm to solve
 ###   a) When edges are on the right I use the algorithm **L R U R' U' L'**
-###   b) When edges are on the left I use the algorithm **R' U' L' L U R**
+###   b) When edges are on the left I use the algorithm **R' L' U' L U R**
 ###   c) If two edges need to be flipped I use the algorithm **R' L R L' U L' U' L**
 ###   d) The other case is the clockwise cycle where I use the algorithm **R U' R' U**
 
