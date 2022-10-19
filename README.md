@@ -10,6 +10,13 @@
 ### 4. 1:14:43
 ### 5. 1:07:78
 
+## My times to solve pyraminx - October 19th
+### 1. 43.13
+### 2. 1:05.27
+### 3. 25.70
+### 4. 34.85
+### 5. 
+
 ## _Calculating ao5_
 ### Not counting best and worst times
 ### 1:34:46 + 1:14:43 + 1:07:78 / 3 = **_1:18:89_**
