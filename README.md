@@ -32,8 +32,7 @@
 ### Not counting best and worst times
 ### 43.13 + 1:05.27 +  34.85 + 53.72 + 1:11.93 +  1:58.11 +  38.17 + 42.70 + 1:00.47 + 1:09.49 / 10 = **_1:01:78_**
 
-## Calculating ao25
-### Not counting best and worst times
+##My times to solve - October 19th and 20th
 ### 1. 44.48
 ### 2. 36.02
 ### 3. 31.76
@@ -60,6 +59,9 @@
 ### 24. 50.82
 ### 25. 36.26
 
+## Calculating ao25
+### Not counting best and worst times
+
 ## _Resources used to learn to solve_
 ### 1. (https://www.youtube.com/watch?v=Qv6bWiLQZoI)
 ### 2. (https://www.youtube.com/watch?v=2H0FUvaaUsI)
@@ -78,6 +80,6 @@
 ### Working with the pyraminx this past week has given me a much better understanding of how algorithms work and has allowed me to work through somthing in which I can have physical results and really see my progress in front of me. I hope that I can use this understanding of algorithms and apply it to coding and use it when coding projects in the future.
 
 ## _Next Steps/Goals_
-### In the future, I would like to be able to solve the pyraminx at an average of about 45-55s instead of have an average or 1:18, in order to get there I think I need to work a bit more with the cube and try looking at it in different ways to understand what I need to do to solve it in fewer steps. I would also like to work with a pyraminx duo as well and maybe work toward using a rubik's cube in the future and continue working with different types of cubes.
+### In the future, I would like to be able to solve the pyraminx at an average of about 45-55s, in order to get there I think I need to work a bit more with the cube and try looking at it in different ways to understand what I need to do to solve it in fewer steps. I would also like to work with a pyraminx duo as well and maybe work toward using a rubik's cube in the future and continue working with different types of cubes.
 
 
